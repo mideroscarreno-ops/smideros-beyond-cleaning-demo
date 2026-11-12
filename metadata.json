@@ -1,0 +1,8 @@
+{
+  "name": "Beyond Cleaning — Oklahoma City Residential & Commercial Cleaning",
+  "description": "Independent website redesign concept for Beyond Cleaning (Beyond Janitorial), providing residential and commercial cleaning services across the Oklahoma City metro.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
